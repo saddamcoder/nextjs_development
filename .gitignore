@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Node modules package
+node_modules
+my-app/node_modules
+my-app/.next
+
