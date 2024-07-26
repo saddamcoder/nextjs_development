@@ -182,13 +182,13 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
-# Note: Comment the next line if you want to checkin your web deploy settings,
+# Note: Comment the next line if you want to checkin your web deploy todos,
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
 
-# Microsoft Azure Web App publish settings. Comment the next line if you want to
-# checkin your Azure Web App publish settings, but sensitive information contained
+# Microsoft Azure Web App publish todos. Comment the next line if you want to
+# checkin your Azure Web App publish todos, but sensitive information contained
 # in these scripts will be unencrypted
 PublishScripts/
 
@@ -278,7 +278,7 @@ ServiceFabricBackup/
 # Microsoft Fakes
 FakesAssemblies/
 
-# GhostDoc plugin setting file
+# GhostDoc plugin todos file
 *.GhostDoc.xml
 
 # Node.js Tools for Visual Studio
@@ -320,7 +320,7 @@ paket-files/
 # FAKE - F# Make
 .fake/
 
-# CodeRush personal settings
+# CodeRush personal todos
 .cr/personal
 
 # Python Tools for Visual Studio (PTVS)
@@ -401,4 +401,6 @@ FodyWeavers.xsd
 node_modules
 my-app/node_modules
 my-app/.next
+intro-v3-app/node_modules
+intro-v3-app/.next
 
